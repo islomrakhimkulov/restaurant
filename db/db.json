@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "email": "islomraximqulov448@gmail.com",
+      "name": "Islom",
+      "password": "islom_5235",
+      "id": 1
+    },
+    {
+      "email": "wdqw",
+      "name": "wdqw",
+      "password": "wdw",
+      "id": 2
+    },
+    {
+      "email": "islom@gmail.com",
+      "name": "islom",
+      "password": "islom75414",
+      "id": 3
+    },
+    {
+      "email": "behruz@gmail.com",
+      "name": "behruz",
+      "password": "behruz3343",
+      "id": 4
+    },
+    {
+      "email": "behruz@gmail.com",
+      "name": "behruz",
+      "password": "behruz3343wdw",
+      "id": 5
+    },
+    {
+      "email": "islom@gmail.com",
+      "name": "islom",
+      "password": "islom30022",
+      "id": 6
+    }
+  ]
+}
